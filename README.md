@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsinharoy&label=Profile%20views&color=0e75b6&style=flat" alt="aniketsinharoy" /> </p>
 
-- 🌱 I’m currently learning **MEAN Full Stack Development**
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Java, C and Competitive Coding**
 
