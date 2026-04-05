@@ -42,7 +42,7 @@ class AniketSinhaRoy:
         self.focus       = ["Agentic AI", "Generative AI", "Data Engineering"]
         self.learning    = ["LangGraph", "MCP (Model Context Protocol)", "Agentic Workflows"]
         self.contact     = "aniketsinharoy@gmail.com"
-        self.fun_fact    = "My username is unique 😄"
+        self.fun_fact    = "My servers have 99.9% uptime. My AI agents are self-healing. I run on chai ☕ and I crash daily. 😂"
 
     def current_stack(self):
         return {
@@ -129,5 +129,5 @@ class AniketSinhaRoy:
 ---
 
 <div align="center">
-  <sub>⚡ Fun fact — My username is unique!</sub>
+  <sub>⚡ Fun fact — "404: Work-life balance not found" 💀</sub>
 </div>
