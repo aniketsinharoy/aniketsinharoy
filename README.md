@@ -129,5 +129,5 @@ class AniketSinhaRoy:
 ---
 
 <div align="center">
-  <sub>⚡ Fun fact — "404: Work-life balance not found" 💀</sub>
+  <sub>"404: Work-life balance not found" 💀</sub>
 </div>
