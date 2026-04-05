@@ -1,32 +1,143 @@
-<h1 align="center">Hi 👋, I'm Aniket Sinha Roy</h1>
-<h3 align="center">A passionate Learner</h3>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" align="right">
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aniket%20Sinha%20Roy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20Data%20Engineer&descAlignY=58&descSize=18&descColor=a0c4ff&animation=fadeIn" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsinharoy&label=Profile%20views&color=0e75b6&style=flat" alt="aniketsinharoy" /> </p>
+</div>
 
-- 🌱 I’m currently learning **Generative AI**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Generative+AI+%26+Agentic+AI+Enthusiast+%F0%9F%A4%96;Data+Engineering+%7C+LangChain+%7C+LangGraph;Building+Intelligent+Systems+with+MCP" alt="Typing SVG" />
+</div>
 
-- 💬 Ask me about **Java, C and Competitive Coding**
+<br/>
 
-- 📫 How to reach me **aniketsinharoy@gmail.com**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aniketsinharoy&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://linkedin.com/in/aniketsinharoy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:aniketsinharoy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.leetcode.com/aniketsinharoy">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/17311357">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+</div>
 
-- ⚡ Fun fact **My username is unique**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aniketsinharoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketsinharoy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17311357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17311357" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aniketsinharoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aniketsinharoy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aniketsinharoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketsinharoy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aniketsinharoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniketsinharoy" height="30" width="40" /></a>
+## 👨‍💻 About Me
+
+```python
+class AniketSinhaRoy:
+    def __init__(self):
+        self.role        = "Python Developer"
+        self.location    = "India 🇮🇳"
+        self.focus       = ["Agentic AI", "Generative AI", "Data Engineering"]
+        self.learning    = ["LangGraph", "MCP (Model Context Protocol)", "Agentic Workflows"]
+        self.contact     = "aniketsinharoy@gmail.com"
+        self.fun_fact    = "My username is unique 😄"
+
+    def current_stack(self):
+        return {
+            "AI/ML"  : ["LangChain", "LangGraph", "MCP", "Generative AI"],
+            "Data"   : ["PySpark", "Pandas", "Tableau", "SAP BO"],
+            "Backend": ["Python", "MySQL", "MongoDB"],
+            "DevOps" : ["Linux", "Unix", "Git", "Bitbucket", "GitHub"]
+        }
+```
+
+---
+
+## 🧠 AI & Agentic Stack
+
+<div align="center">
+
+| Layer | Technologies |
+|-------|-------------|
+| 🤖 **Agentic AI** | LangGraph · MCP (Model Context Protocol) |
+| 🔗 **LLM Orchestration** | LangChain · Prompt Engineering |
+| 📊 **Data & Analytics** | PySpark · Pandas · Tableau · SAP BO |
+| 🗄️ **Databases** | MySQL · MongoDB |
+| 🖥️ **Systems** | Linux · Unix |
+| 🔧 **Dev Tools** | Git · GitHub · Bitbucket · Postman |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Core Languages & AI Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Data & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_BO-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketsinharoy&show_icons=true&locale=en&layout=compact" alt="aniketsinharoy" /></p>
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketsinharoy&show_icons=true&locale=en" alt="aniketsinharoy" /></p>
+### OS, DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Unix-black?style=for-the-badge&logo=unix&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinharoy&" alt="aniketsinharoy" /></p>
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketsinharoy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinharoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinharoy&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🚀 Current Focus
+
+```
+🔭  Building Agentic AI workflows using LangGraph & MCP
+🌱  Exploring multi-agent orchestration and tool-use patterns
+⚙️  Working with large-scale data pipelines using PySpark
+📊  Delivering insights through Tableau & SAP BO dashboards
+```
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+</div>
