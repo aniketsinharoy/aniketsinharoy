@@ -1,12 +1,7 @@
-<div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aniket%20Sinha%20Roy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20Data%20Engineer&descAlignY=58&descSize=18&descColor=a0c4ff&animation=fadeIn" width="100%" />
-
-</div>
+<h1 align="center">Hi 👋, I'm Aniket Sinha Roy</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Generative+AI+%26+Agentic+AI+Enthusiast+%F0%9F%A4%96;Data+Engineering+%7C+LangChain+%7C+LangGraph;Building+Intelligent+Systems+with+MCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;Generative+AI+%26+Agentic+AI+Enthusiast+%F0%9F%A4%96;Data+Engineering+%7C+LangChain+%7C+LangGraph;Building+Intelligent+Systems+with+MCP" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -20,6 +15,10 @@
   &nbsp;
   <a href="mailto:aniketsinharoy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/aniketsinharoy">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
   &nbsp;
   <a href="https://www.leetcode.com/aniketsinharoy">
@@ -49,8 +48,9 @@ class AniketSinhaRoy:
         return {
             "AI/ML"  : ["LangChain", "LangGraph", "MCP", "Generative AI"],
             "Data"   : ["PySpark", "Pandas", "Tableau", "SAP BO"],
-            "Backend": ["Python", "MySQL", "MongoDB"],
-            "DevOps" : ["Linux", "Unix", "Git", "Bitbucket", "GitHub"]
+            "Backend": ["Python", "MySQL", "MongoDB", "Oracle"],
+            "DevOps" : ["Linux", "Unix", "Git", "Bitbucket", "GitHub"],
+            "OS"     : ["Linux", "Unix", "Windows"],
         }
 ```
 
@@ -65,9 +65,9 @@ class AniketSinhaRoy:
 | 🤖 **Agentic AI** | LangGraph · MCP (Model Context Protocol) |
 | 🔗 **LLM Orchestration** | LangChain · Prompt Engineering |
 | 📊 **Data & Analytics** | PySpark · Pandas · Tableau · SAP BO |
-| 🗄️ **Databases** | MySQL · MongoDB |
-| 🖥️ **Systems** | Linux · Unix |
-| 🔧 **Dev Tools** | Git · GitHub · Bitbucket · Postman |
+| 🗄️ **Databases** | MySQL · MongoDB · Oracle |
+| 🖥️ **Systems** | Linux · Unix · Windows |
+| 🔧 **Dev Tools** | Git · GitHub · Bitbucket · Postman · MS Office |
 
 </div>
 
@@ -84,6 +84,7 @@ class AniketSinhaRoy:
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-6C3483?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ### Data & Analytics
@@ -91,38 +92,27 @@ class AniketSinhaRoy:
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP_BO-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_BO-0070F2?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
 ### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ### OS, DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Unix-black?style=for-the-badge&logo=unix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unix-333333?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
 
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketsinharoy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinharoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinharoy&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -139,5 +129,5 @@ class AniketSinhaRoy:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+  <sub>⚡ Fun fact — My username is unique!</sub>
 </div>
