@@ -42,7 +42,7 @@ class AniketSinhaRoy:
         self.focus       = ["Agentic AI", "Generative AI", "Data Engineering"]
         self.learning    = ["LangGraph", "MCP (Model Context Protocol)", "Agentic Workflows"]
         self.contact     = "aniketsinharoy@gmail.com"
-        self.fun_fact    = "My servers have 99.9% uptime. My AI agents are self-healing. I run on chai ☕ and I crash daily. 😂"
+        self.fun_fact    = "My servers have 99.9% uptime. My AI agents are self-healing. I run on chai ☕ and I crash daily.😂"
 
     def current_stack(self):
         return {
@@ -122,7 +122,6 @@ class AniketSinhaRoy:
 ```
 🔭  Building Agentic AI workflows using LangGraph & MCP
 🌱  Exploring multi-agent orchestration and tool-use patterns
-⚙️  Working with large-scale data pipelines using PySpark
 📊  Delivering insights through Tableau & SAP BO dashboards
 ```
 
